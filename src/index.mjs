@@ -30,4 +30,4 @@ function addPrefix(string, method, checkForPrefix) {
   return nstring
 }
 
-export {addPrefix}
+export { addPrefix, containsPrefix }
