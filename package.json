@@ -11,7 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/ScolderCreations/predictiveurl.git"
   },
-  "keywords": [],
+  "keywords": [
+    "URL",
+    "correcter",
+    "predict"
+  ],
   "author": "ScolderCreations",
   "license": "MIT",
   "bugs": {
