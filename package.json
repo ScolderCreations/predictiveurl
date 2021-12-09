@@ -1,5 +1,5 @@
 {
-  "name": "predictiveurl",
+  "name": "scpredictiveurl",
   "version": "1.0.0",
   "description": "A JavaScript library for turning strings into URLs.",
   "main": "src/index.js",
