@@ -1,0 +1,22 @@
+{
+  "name": "predictiveurl",
+  "version": "1.0.0",
+  "description": "A JavaScript library for turning strings into URLs.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScolderCreations/predictiveurl.git"
+  },
+  "keywords": [],
+  "author": "ScolderCreations",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScolderCreations/predictiveurl/issues"
+  },
+  "homepage": "https://github.com/ScolderCreations/predictiveurl#readme",
+  "dependencies": {}
+}
