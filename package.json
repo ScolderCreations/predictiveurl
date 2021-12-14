@@ -2,7 +2,7 @@
   "name": "scpredictiveurl",
   "version": "1.0.0",
   "description": "A JavaScript library for turning strings into URLs.",
-  "main": "src/index.js",
+  "main": "src/source.js",
   "type": "module",
   "scripts": {
     "test": "node tests/test.js"
