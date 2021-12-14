@@ -37,5 +37,5 @@ function addPrefix(a, b, c) {
     }
   return d;
 }
-export {addPrefix, containsPrefix};
+export {addPrefix, containsPrefix, secure};
 
