@@ -10,6 +10,9 @@ function containsPrefix() {
       .join('{1,}|') + '{1,}'
   );
 }
+function secure(a) {
+  return a.replace("http://", "https://").replace("ws://", "wss://");
+}
 function addPrefix(a, b, c) {
   try {
     var d = a;
